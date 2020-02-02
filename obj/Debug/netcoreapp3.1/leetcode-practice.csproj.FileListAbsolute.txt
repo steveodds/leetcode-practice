@@ -1,0 +1,11 @@
+d:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.exe
+D:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.deps.json
+D:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.runtimeconfig.json
+D:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.runtimeconfig.dev.json
+d:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.dll
+d:\Projects\Programming\leetcode-practice\bin\Debug\netcoreapp3.1\leetcode-practice.pdb
+d:\Projects\Programming\leetcode-practice\obj\Debug\netcoreapp3.1\leetcode-practice.csprojAssemblyReference.cache
+d:\Projects\Programming\leetcode-practice\obj\Debug\netcoreapp3.1\leetcode-practice.AssemblyInfoInputs.cache
+d:\Projects\Programming\leetcode-practice\obj\Debug\netcoreapp3.1\leetcode-practice.AssemblyInfo.cs
+d:\Projects\Programming\leetcode-practice\obj\Debug\netcoreapp3.1\leetcode-practice.dll
+d:\Projects\Programming\leetcode-practice\obj\Debug\netcoreapp3.1\leetcode-practice.pdb
